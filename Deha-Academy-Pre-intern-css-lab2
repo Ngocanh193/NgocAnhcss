@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thượng Hải - Tương Lai Của Trung Hoa Hiện Đại</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 20px;
+            line-height: 1.4;
+            background-color: #f4f4f4;
+        }
+
+        .header-container {
+            text-align: center; 
+        }
+
+        .header {
+            color: #eb8b2b; 
+            font-weight: bold;
+            text-transform: uppercase; 
+            border: 5px double #eb8b2b; 
+            display: inline-block; 
+            padding: 10px;
+            margin-bottom: 10px; 
+        }
+
+        .emphasis {
+            font-size: 55px; 
+            font-weight: 900; 
+            color: rgb(158, 14, 14); 
+        }
+
+        .highlight {
+            color: #d63a0b; 
+            font-weight: bold; 
+        }
+
+        .highlight-background {
+            background-color: rgba(255, 191, 0, 0.846);
+            font-style: italic;
+            padding: 2px; 
+        }
+
+        .main-content {
+            margin-top: 20px;
+            padding: 20px;
+        }
+
+        .highlighted-location {
+            background-color: #ff7b00; 
+            color: white; 
+            font-size: 24px; 
+            font-weight: bold; 
+            padding: 3px; 
+            text-align: right; 
+            margin-bottom: 5px; 
+        }
+
+        .underline {
+            text-decoration: underline; 
+        }
+
+        .final-paragraph {
+            text-align: right; 
+            line-height: 1.5; 
+            white-space: normal; /* xuống dòng tự nhiên*/
+        }
+    </style>
+</head>
+<body>
+    <div class="header-container">
+        <h1 class="header">THƯỢNG HẢI<br>TƯƠNG LAI CỦA TRUNG HOA HIỆN ĐẠI</h1>
+    </div>
+    <div class="main-content">
+        <p>
+            <span class="emphasis">K</span>hông thể so sánh với Bắc Kinh, Tây An về chiều sâu văn hóa hay bề dày lịch sử, 
+            Thượng Hải hấp dẫn du khách bởi một khía cạnh khác: 
+            <span class="underline"><strong>điểm nóng nhất của Trung Hoa hiện đại</strong></span>.
+        </p>
+        <p class="highlighted-location">Bến Thượng Hải</p>
+        <p class="final-paragraph">
+            <span class="emphasis">L</span>à sự kết hợp hài hòa một cách kỳ lạ giữa 
+            <span class="highlight">Liverpool</span> và 
+            <span class="highlight">Manhattan</span> những năm 1920, con phố ấn tượng nhất ở Thượng Hải là Trung Sơn lộ, 
+            người phương Tây quen gọi là <span class="highlight-background">Bund</span> còn người Việt Nam gọi là 
+            <span class="highlight-background">Bến Thượng Hải</span>. 
+            Xưa kia, nơi đây là trung tâm náo nhiệt nhất của Thượng Hải, 
+            là khu tô giới bị tranh chấp dữ dội nhất của ba nước Anh, Nhật, Mỹ. Một bên là sông Hoàng Phố, 
+            bên kia là những công trình kiến trúc theo lối Tây phương - cũng chính là trung tâm kinh tế đầu não của thành phố này.
+        </p>
+    </div>
+</body>
+</html>
